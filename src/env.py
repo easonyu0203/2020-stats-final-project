@@ -1,12 +1,6 @@
 
-craw_url = "https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/ftype/0" 
+craw_url = "https://mybike.ntu.edu.tw/bike.announcement/towing" 
 craw_host_url = "https://mybike.ntu.edu.tw"
-
-#content of page 1
-last_content = ''
-
-with open('/Users/eason/Desktop/statistics/final-project/src/last_content.txt' , 'r') as f:
-	last_content = f.read()
 
 
 # url for web crawling

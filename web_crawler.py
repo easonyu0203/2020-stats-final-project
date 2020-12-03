@@ -5,7 +5,11 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 from model.tow_bike import TowBike
-from src.env import last_content, craw_page_url, craw_host_url
+from src.env import craw_page_url, craw_host_url
+
+std_output = False
+
+WRITE_FILE = True
 
 def get_TowBikes(url):
 	"""get tow bikes from this url and save to db
@@ -24,7 +28,7 @@ def get_TowBikes(url):
 
 	if raw_TowBikes == []:
 		return 0
-	print("saving to mySQL...")
+	if std_output: print("saving to mySQL...")
 	new_entry_count = 0
 	for raw_towbike in raw_TowBikes:
 		bike_id = raw_towbike.select("div.info>h4>span")[1].text 
@@ -37,7 +41,7 @@ def get_TowBikes(url):
 		if(bike.save()):
 			new_entry_count += 1
 
-		print(bike)
+		if std_output: print(bike)
 	
 	return new_entry_count
 
@@ -84,21 +88,31 @@ def max_page_index():
 	return int(index)
 
 def main():
-	print(f"program running...")
-	print(f"time: {datetime.now()}")
+	if std_output: print(f"program running...")
+	if std_output: print(f"time: {datetime.now()}")
 
 	max_index = max_page_index()
 
 	if max_index == -1:
-		print("there is no data to crawl...")
+		if std_output: print("there is no data to crawl...")
+		if WRITE_FILE:
+			with open('./result.txt', 'a') as f:
+				f.write(f"add 0 of entry...\n")
 		exit()
 
 	total_add_entry = 0
 	for page_index in range(1, max_index+1):
-		print(f"\ncrawling {craw_page_url(page_index)}...")
+		if std_output: print(f"\ncrawling {craw_page_url(page_index)}...")
 		total_add_entry += get_TowBikes(craw_page_url(page_index))
 
-	print(f"add {total_add_entry} of entry...")
+	if std_output: print(f"add {total_add_entry} of entry...")
+
+	if WRITE_FILE:
+		with open('./result.txt', 'a') as f:
+			f.write(f"add {total_add_entry} of entry...\n")
+
+
+	
 
 if __name__ == "__main__":
 	main()
