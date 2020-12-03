@@ -1,5 +1,5 @@
 
-craw_url = "https://mybike.ntu.edu.tw/bike.announcement/towing" 
+craw_url = "https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/ftype/0" 
 craw_host_url = "https://mybike.ntu.edu.tw"
 
 #content of page 1
@@ -12,4 +12,4 @@ with open('/Users/eason/Desktop/statistics/final-project/src/last_content.txt' ,
 # url for web crawling
 # this have page 1-?
 def craw_page_url(index):
-	return craw_url + '/page'
+	return craw_url + f'/page/{index}'
