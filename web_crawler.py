@@ -16,14 +16,15 @@ def get_TowBikes(url):
 	print(f"crawling {url}")
 	try:
 		res = requests.get(url)
-		res.raise_for_status()
 	except HTTPError as err:
-		SystemExit(err)
+		print(err)
+		exit()
 	except ConnectionError as err:
-		SystemExit(err)
+		print(err)
+		exit()
 	except:
 		print("Unexpected error:", sys.exc_info()[0])
-		raise
+		exit()
 
 
 	soup = BeautifulSoup(res.text, 'html.parser')
@@ -44,9 +45,10 @@ def get_TowBikes(url):
 		bike = TowBike(bike_id, location, time, picture_url)
 		tow_bikes.append(bike)
 
-		# if std_output: print(bike)
+	tow_bikes.reverse()
 	
 	return tow_bikes
+
 
 def crawl_towbike_at(date):
 	"""get tow bike at this date return array of tow bike"""
@@ -57,7 +59,7 @@ def crawl_towbike_at(date):
 		exit()
 
 	tow_bikes = []
-	for page_index in range(1, max_index+1):
+	for page_index in range(max_index, 0, -1):
 		tow_bikes += get_TowBikes(crawl_url(date, page_index))
 	
 	return tow_bikes
@@ -74,6 +76,5 @@ def main():
 	print(f'(add {add_entries_count} entries)') if add_entries_count > 0 else print('(no entry add)')
 
 	
-
 if __name__ == "__main__":
 	main()

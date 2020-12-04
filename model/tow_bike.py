@@ -5,13 +5,19 @@ import sys
 import os.path as path
 
 class TowBike:
-	def __init__(self, bike_id=None, location=None, time=None, picture_url=None):
+	def __init__(self, bike_id=None, location=None, time=None, picture_url=None, _id=None):
+		self._id = _id
 		self.bike_id = bike_id
 		self.location = location
 		self.time = time
 		self.picture_url = picture_url
 		self.picture_filePath = ''
 		self.picture_fileName = ''
+		self.return_time = None
+
+
+	def __eq__(self, other):
+		return self.bike_id == other.bike_id and self.time == other.time
 
 	
 	def save_picture(self):
@@ -19,12 +25,14 @@ class TowBike:
 		try:
 			res = requests.get(self.picture_url)
 		except HTTPError as err:
-			SystemExit(err)
+			print(err)
+			exit()
 		except ConnectionError as err:
-			SystemExit(err)
+			print(err)
+			exit()
 		except:
 			print("Unexpected error:", sys.exc_info()[0])
-			raise
+			exit()
 
 		cursor.execute("SELECT MAX(ID) FROM towed_bike")
 		index = cursor.fetchone()[0]

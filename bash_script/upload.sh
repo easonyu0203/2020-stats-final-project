@@ -1,14 +1,14 @@
 # write data to excel and to github
 dir="/Users/eason/Desktop/statistics/final-project"
-dir="/Users/eason/Desktop/statistics/final-project"
-echo "**************************************************" >> ${dir}/result.txt
+echo "**************************************************" >> ${dir}/log/upload.log
 now=$(date +"%x %X")
-echo "current time: ${now}" >> ${dir}/result.txt
-echo "writing data to excel..." >> ${dir}/result.txt
-/opt/anaconda3/bin/python ${dir}/toExcel.py >> ${dir}/result.txt
-echo "uploading data to github..." >> ${dir}/result.txt
+echo "current time: ${now}" >> ${dir}/log/upload.log
+echo "writing data to excel..." >> ${dir}/log/upload.log
+/opt/anaconda3/bin/python ${dir}/toExcel.py >> ${dir}/log/upload.log
+echo "uploading data to github..." >> ${dir}/log/upload.log
 git add .
 git commit -m "upload data"
 git push
-echo "**************************************************" >> ${dir}/result.txt
+echo "upload complete!!"
+echo "**************************************************" >> ${dir}/log/upload.log
 echo ""

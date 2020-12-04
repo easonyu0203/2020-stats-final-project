@@ -27,12 +27,15 @@ def max_page_index(date):
 	try:
 		res = requests.get(url)
 	except HTTPError as err:
-		SystemExit(err)
+		print(err)
+		exit()
 	except ConnectionError as err:
-		SystemExit(err)
+		print(err)
+		exit()
 	except:
 		print("Unexpected error:", sys.exc_info()[0])
-		raise
+		exit()
+
 
 	soup = BeautifulSoup(res.text, 'html.parser')
 	if(soup.select("ul.pagination") == []):
