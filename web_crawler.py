@@ -16,6 +16,7 @@ def get_TowBikes(url):
 	print(f"crawling {url}")
 	try:
 		res = requests.get(url)
+		res.raise_for_status()
 	except HTTPError as err:
 		SystemExit(err)
 	except ConnectionError as err:
