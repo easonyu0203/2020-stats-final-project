@@ -12,4 +12,4 @@ git commit -m "upload data"
 git push
 echo "upload complete!!"
 echo "**************************************************" >> ${dir}/log/upload.log
-echo ""
+echo "" >> ${dir}/log/upload.log
