@@ -1,5 +1,7 @@
 dir="/Users/eason/Desktop/statistics/final-project"
 now=$(date +"%x %X")
+cd ${dir}
+
 # run web crawling python script!!!!!
 echo "===================================================================" >> ${dir}/log/crawling.log
 echo "web crawling program running..." >> ${dir}/log/crawling.log
