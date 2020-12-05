@@ -56,7 +56,7 @@ def crawl_towbike_at(date):
 	max_index = max_page_index(date)
 	if max_index == -1:
 		print("there is no data to crawl...")
-		exit()
+		return []
 
 	tow_bikes = []
 	for page_index in range(max_index, 0, -1):

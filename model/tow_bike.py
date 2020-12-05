@@ -5,15 +5,15 @@ import sys
 import os.path as path
 
 class TowBike:
-	def __init__(self, bike_id=None, location=None, time=None, picture_url=None, _id=None):
+	def __init__(self, bike_id=None, location=None, time=None, picture_url=None, _id=None, return_time=None):
 		self._id = _id
 		self.bike_id = bike_id
 		self.location = location
 		self.time = time
+		self.return_time = return_time
 		self.picture_url = picture_url
 		self.picture_filePath = ''
 		self.picture_fileName = ''
-		self.return_time = None
 
 
 	def __eq__(self, other):

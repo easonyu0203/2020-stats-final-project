@@ -19,10 +19,11 @@ def main():
 
 	db_towed_bikes = []
 	print('get all entry from 2020/12/01 to today from mySQL...')
-	cursor.execute("SELECT id, bike_id, time FROM towed_bike")
-	for _id, bike_id, time in cursor.fetchall():
-		db_towed_bikes.append(TowBike(_id=_id,bike_id=bike_id, time=time))
-	
+	cursor.execute("SELECT id, bike_id, time, return_time FROM towed_bike")
+	for _id, bike_id, time, return_time in cursor.fetchall():
+		db_towed_bikes.append(TowBike(_id=_id,bike_id=bike_id, time=time, return_time=return_time))
+	print(f'web bike count: {len(web_towed_bikes)}')
+	print(f'db bike count : {len(db_towed_bikes)}')
 	print('check for update...')
 	return_bikes = [bike for bike in db_towed_bikes if bike not in web_towed_bikes and bike.return_time is None]
 
@@ -37,3 +38,4 @@ def main():
 
 if __name__ == "__main__":
 	main()
+	

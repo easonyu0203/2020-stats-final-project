@@ -1,5 +1,6 @@
 # write data to excel and to github
 dir="/Users/eason/Desktop/statistics/final-project"
+cd ${dir}
 echo "**************************************************" >> ${dir}/log/upload.log
 now=$(date +"%x %X")
 echo "current time: ${now}" >> ${dir}/log/upload.log
