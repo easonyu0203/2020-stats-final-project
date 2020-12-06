@@ -3283,3 +3283,891 @@ check for update...
 (no update need)
 ===================================================================
 
+===================================================================
+web crawling program running...
+current time: 12/06/20 14:10:00
+getting all entry from 2020/12/01 to today from website...
+crawling towed bike at date 2020-12-01
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/1
+crawling towed bike at date 2020-12-02
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/1
+crawling towed bike at date 2020-12-03
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/1
+crawling towed bike at date 2020-12-04
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/7
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/1
+crawling towed bike at date 2020-12-05
+there is no data to crawl...
+crawling towed bike at date 2020-12-06
+there is no data to crawl...
+get all entry from 2020/12/01 to today from mySQL...
+web bike count: 160
+db bike count : 160
+check for update...
+(no update need)
+===================================================================
+
+===================================================================
+web crawling program running...
+current time: 12/06/20 14:20:01
+getting all entry from 2020/12/01 to today from website...
+crawling towed bike at date 2020-12-01
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/1
+crawling towed bike at date 2020-12-02
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/1
+crawling towed bike at date 2020-12-03
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/1
+crawling towed bike at date 2020-12-04
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/7
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/1
+crawling towed bike at date 2020-12-05
+there is no data to crawl...
+crawling towed bike at date 2020-12-06
+there is no data to crawl...
+get all entry from 2020/12/01 to today from mySQL...
+web bike count: 160
+db bike count : 160
+check for update...
+(no update need)
+===================================================================
+
+===================================================================
+web crawling program running...
+current time: 12/06/20 14:30:00
+getting all entry from 2020/12/01 to today from website...
+crawling towed bike at date 2020-12-01
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/1
+crawling towed bike at date 2020-12-02
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/1
+crawling towed bike at date 2020-12-03
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/1
+crawling towed bike at date 2020-12-04
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/7
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/1
+crawling towed bike at date 2020-12-05
+there is no data to crawl...
+crawling towed bike at date 2020-12-06
+there is no data to crawl...
+get all entry from 2020/12/01 to today from mySQL...
+web bike count: 160
+db bike count : 160
+check for update...
+(no update need)
+===================================================================
+
+===================================================================
+web crawling program running...
+current time: 12/06/20 14:40:00
+getting all entry from 2020/12/01 to today from website...
+crawling towed bike at date 2020-12-01
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/1
+crawling towed bike at date 2020-12-02
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/1
+crawling towed bike at date 2020-12-03
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/1
+crawling towed bike at date 2020-12-04
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/7
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/1
+crawling towed bike at date 2020-12-05
+there is no data to crawl...
+crawling towed bike at date 2020-12-06
+there is no data to crawl...
+get all entry from 2020/12/01 to today from mySQL...
+web bike count: 160
+db bike count : 160
+check for update...
+(no update need)
+===================================================================
+
+===================================================================
+web crawling program running...
+current time: 12/06/20 14:50:00
+getting all entry from 2020/12/01 to today from website...
+crawling towed bike at date 2020-12-01
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/1
+crawling towed bike at date 2020-12-02
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/1
+crawling towed bike at date 2020-12-03
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/1
+crawling towed bike at date 2020-12-04
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/7
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/1
+crawling towed bike at date 2020-12-05
+there is no data to crawl...
+crawling towed bike at date 2020-12-06
+there is no data to crawl...
+get all entry from 2020/12/01 to today from mySQL...
+web bike count: 160
+db bike count : 160
+check for update...
+(no update need)
+===================================================================
+
+===================================================================
+web crawling program running...
+current time: 12/06/20 15:00:00
+getting all entry from 2020/12/01 to today from website...
+crawling towed bike at date 2020-12-01
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/1
+crawling towed bike at date 2020-12-02
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/1
+crawling towed bike at date 2020-12-03
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/1
+crawling towed bike at date 2020-12-04
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/7
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/1
+crawling towed bike at date 2020-12-05
+there is no data to crawl...
+crawling towed bike at date 2020-12-06
+there is no data to crawl...
+get all entry from 2020/12/01 to today from mySQL...
+web bike count: 160
+db bike count : 160
+check for update...
+(no update need)
+===================================================================
+
+===================================================================
+web crawling program running...
+current time: 12/06/20 15:10:00
+getting all entry from 2020/12/01 to today from website...
+crawling towed bike at date 2020-12-01
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/1
+crawling towed bike at date 2020-12-02
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/1
+crawling towed bike at date 2020-12-03
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/1
+crawling towed bike at date 2020-12-04
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/7
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/1
+crawling towed bike at date 2020-12-05
+there is no data to crawl...
+crawling towed bike at date 2020-12-06
+there is no data to crawl...
+get all entry from 2020/12/01 to today from mySQL...
+web bike count: 160
+db bike count : 160
+check for update...
+(no update need)
+===================================================================
+
+===================================================================
+web crawling program running...
+current time: 12/06/20 15:20:00
+getting all entry from 2020/12/01 to today from website...
+crawling towed bike at date 2020-12-01
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/1
+crawling towed bike at date 2020-12-02
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/1
+crawling towed bike at date 2020-12-03
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/1
+crawling towed bike at date 2020-12-04
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/7
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/1
+crawling towed bike at date 2020-12-05
+there is no data to crawl...
+crawling towed bike at date 2020-12-06
+there is no data to crawl...
+get all entry from 2020/12/01 to today from mySQL...
+web bike count: 160
+db bike count : 160
+check for update...
+(no update need)
+===================================================================
+
+===================================================================
+web crawling program running...
+current time: 12/06/20 15:30:00
+getting all entry from 2020/12/01 to today from website...
+crawling towed bike at date 2020-12-01
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/1
+crawling towed bike at date 2020-12-02
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/1
+crawling towed bike at date 2020-12-03
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/1
+crawling towed bike at date 2020-12-04
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/7
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/1
+crawling towed bike at date 2020-12-05
+there is no data to crawl...
+crawling towed bike at date 2020-12-06
+there is no data to crawl...
+get all entry from 2020/12/01 to today from mySQL...
+web bike count: 160
+db bike count : 160
+check for update...
+(no update need)
+===================================================================
+
+===================================================================
+web crawling program running...
+current time: 12/06/20 15:40:00
+getting all entry from 2020/12/01 to today from website...
+crawling towed bike at date 2020-12-01
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/1
+crawling towed bike at date 2020-12-02
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/1
+crawling towed bike at date 2020-12-03
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/1
+crawling towed bike at date 2020-12-04
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/7
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/1
+crawling towed bike at date 2020-12-05
+there is no data to crawl...
+crawling towed bike at date 2020-12-06
+there is no data to crawl...
+get all entry from 2020/12/01 to today from mySQL...
+web bike count: 160
+db bike count : 160
+check for update...
+(no update need)
+===================================================================
+
+===================================================================
+web crawling program running...
+current time: 12/06/20 15:50:00
+getting all entry from 2020/12/01 to today from website...
+crawling towed bike at date 2020-12-01
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/1
+crawling towed bike at date 2020-12-02
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/1
+crawling towed bike at date 2020-12-03
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/1
+crawling towed bike at date 2020-12-04
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/7
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/1
+crawling towed bike at date 2020-12-05
+there is no data to crawl...
+crawling towed bike at date 2020-12-06
+there is no data to crawl...
+get all entry from 2020/12/01 to today from mySQL...
+web bike count: 160
+db bike count : 160
+check for update...
+(no update need)
+===================================================================
+
+===================================================================
+web crawling program running...
+current time: 12/06/20 16:00:00
+getting all entry from 2020/12/01 to today from website...
+crawling towed bike at date 2020-12-01
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/1
+crawling towed bike at date 2020-12-02
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/1
+crawling towed bike at date 2020-12-03
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/1
+crawling towed bike at date 2020-12-04
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/7
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/1
+crawling towed bike at date 2020-12-05
+there is no data to crawl...
+crawling towed bike at date 2020-12-06
+there is no data to crawl...
+get all entry from 2020/12/01 to today from mySQL...
+web bike count: 160
+db bike count : 160
+check for update...
+(no update need)
+===================================================================
+
+===================================================================
+web crawling program running...
+current time: 12/06/20 16:10:00
+getting all entry from 2020/12/01 to today from website...
+crawling towed bike at date 2020-12-01
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/1
+crawling towed bike at date 2020-12-02
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/1
+crawling towed bike at date 2020-12-03
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/1
+crawling towed bike at date 2020-12-04
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/7
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/1
+crawling towed bike at date 2020-12-05
+there is no data to crawl...
+crawling towed bike at date 2020-12-06
+there is no data to crawl...
+get all entry from 2020/12/01 to today from mySQL...
+web bike count: 160
+db bike count : 160
+check for update...
+(no update need)
+===================================================================
+
+===================================================================
+web crawling program running...
+current time: 12/06/20 16:20:00
+getting all entry from 2020/12/01 to today from website...
+crawling towed bike at date 2020-12-01
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/1
+crawling towed bike at date 2020-12-02
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/1
+crawling towed bike at date 2020-12-03
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/1
+crawling towed bike at date 2020-12-04
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/7
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/1
+crawling towed bike at date 2020-12-05
+there is no data to crawl...
+crawling towed bike at date 2020-12-06
+there is no data to crawl...
+get all entry from 2020/12/01 to today from mySQL...
+web bike count: 160
+db bike count : 160
+check for update...
+(no update need)
+===================================================================
+
+===================================================================
+web crawling program running...
+current time: 12/06/20 16:30:00
+getting all entry from 2020/12/01 to today from website...
+crawling towed bike at date 2020-12-01
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/1
+crawling towed bike at date 2020-12-02
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/1
+crawling towed bike at date 2020-12-03
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/1
+crawling towed bike at date 2020-12-04
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/7
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/1
+crawling towed bike at date 2020-12-05
+there is no data to crawl...
+crawling towed bike at date 2020-12-06
+there is no data to crawl...
+get all entry from 2020/12/01 to today from mySQL...
+web bike count: 160
+db bike count : 160
+check for update...
+(no update need)
+===================================================================
+
+===================================================================
+web crawling program running...
+current time: 12/06/20 16:40:00
+getting all entry from 2020/12/01 to today from website...
+crawling towed bike at date 2020-12-01
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/1
+crawling towed bike at date 2020-12-02
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/1
+crawling towed bike at date 2020-12-03
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/1
+crawling towed bike at date 2020-12-04
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/7
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/1
+crawling towed bike at date 2020-12-05
+there is no data to crawl...
+crawling towed bike at date 2020-12-06
+there is no data to crawl...
+get all entry from 2020/12/01 to today from mySQL...
+web bike count: 160
+db bike count : 160
+check for update...
+(no update need)
+===================================================================
+
+===================================================================
+web crawling program running...
+current time: 12/06/20 16:50:00
+getting all entry from 2020/12/01 to today from website...
+crawling towed bike at date 2020-12-01
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/1
+crawling towed bike at date 2020-12-02
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/1
+crawling towed bike at date 2020-12-03
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/1
+crawling towed bike at date 2020-12-04
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/7
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/1
+crawling towed bike at date 2020-12-05
+there is no data to crawl...
+crawling towed bike at date 2020-12-06
+there is no data to crawl...
+get all entry from 2020/12/01 to today from mySQL...
+web bike count: 160
+db bike count : 160
+check for update...
+(no update need)
+===================================================================
+
+===================================================================
+web crawling program running...
+current time: 12/06/20 17:00:00
+getting all entry from 2020/12/01 to today from website...
+crawling towed bike at date 2020-12-01
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/1
+crawling towed bike at date 2020-12-02
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/1
+crawling towed bike at date 2020-12-03
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/1
+crawling towed bike at date 2020-12-04
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/7
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/1
+crawling towed bike at date 2020-12-05
+there is no data to crawl...
+crawling towed bike at date 2020-12-06
+there is no data to crawl...
+get all entry from 2020/12/01 to today from mySQL...
+web bike count: 160
+db bike count : 160
+check for update...
+(no update need)
+===================================================================
+
+===================================================================
+web crawling program running...
+current time: 12/06/20 17:10:00
+getting all entry from 2020/12/01 to today from website...
+crawling towed bike at date 2020-12-01
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/1
+crawling towed bike at date 2020-12-02
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/1
+crawling towed bike at date 2020-12-03
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/1
+crawling towed bike at date 2020-12-04
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/7
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/1
+crawling towed bike at date 2020-12-05
+there is no data to crawl...
+crawling towed bike at date 2020-12-06
+there is no data to crawl...
+get all entry from 2020/12/01 to today from mySQL...
+web bike count: 160
+db bike count : 160
+check for update...
+(no update need)
+===================================================================
+
+===================================================================
+web crawling program running...
+current time: 12/06/20 17:20:00
+getting all entry from 2020/12/01 to today from website...
+crawling towed bike at date 2020-12-01
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/1
+crawling towed bike at date 2020-12-02
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/1
+crawling towed bike at date 2020-12-03
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/1
+crawling towed bike at date 2020-12-04
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/7
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/1
+crawling towed bike at date 2020-12-05
+there is no data to crawl...
+crawling towed bike at date 2020-12-06
+there is no data to crawl...
+get all entry from 2020/12/01 to today from mySQL...
+web bike count: 160
+db bike count : 160
+check for update...
+(no update need)
+===================================================================
+
+===================================================================
+web crawling program running...
+current time: 12/06/20 17:30:00
+getting all entry from 2020/12/01 to today from website...
+crawling towed bike at date 2020-12-01
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/1
+crawling towed bike at date 2020-12-02
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/1
+crawling towed bike at date 2020-12-03
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/1
+crawling towed bike at date 2020-12-04
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/7
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/1
+crawling towed bike at date 2020-12-05
+there is no data to crawl...
+crawling towed bike at date 2020-12-06
+there is no data to crawl...
+get all entry from 2020/12/01 to today from mySQL...
+web bike count: 160
+db bike count : 160
+check for update...
+(no update need)
+===================================================================
+
+===================================================================
+web crawling program running...
+current time: 12/06/20 17:40:00
+getting all entry from 2020/12/01 to today from website...
+crawling towed bike at date 2020-12-01
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/1
+crawling towed bike at date 2020-12-02
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/1
+crawling towed bike at date 2020-12-03
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/1
+crawling towed bike at date 2020-12-04
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/7
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/1
+crawling towed bike at date 2020-12-05
+there is no data to crawl...
+crawling towed bike at date 2020-12-06
+there is no data to crawl...
+get all entry from 2020/12/01 to today from mySQL...
+web bike count: 160
+db bike count : 160
+check for update...
+(no update need)
+===================================================================
+
+===================================================================
+web crawling program running...
+current time: 12/06/20 17:50:00
+getting all entry from 2020/12/01 to today from website...
+crawling towed bike at date 2020-12-01
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/1
+crawling towed bike at date 2020-12-02
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/1
+crawling towed bike at date 2020-12-03
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/1
+crawling towed bike at date 2020-12-04
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/7
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/1
+crawling towed bike at date 2020-12-05
+there is no data to crawl...
+crawling towed bike at date 2020-12-06
+there is no data to crawl...
+get all entry from 2020/12/01 to today from mySQL...
+web bike count: 160
+db bike count : 160
+check for update...
+(no update need)
+===================================================================
+
+===================================================================
+web crawling program running...
+current time: 12/06/20 18:00:00
+getting all entry from 2020/12/01 to today from website...
+crawling towed bike at date 2020-12-01
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/1
+crawling towed bike at date 2020-12-02
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/1
+crawling towed bike at date 2020-12-03
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/1
+crawling towed bike at date 2020-12-04
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/7
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/6
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/5
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/4
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/3
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/2
+crawling https://mybike.ntu.edu.tw/bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/1
+crawling towed bike at date 2020-12-05
+there is no data to crawl...
+crawling towed bike at date 2020-12-06
+there is no data to crawl...
+get all entry from 2020/12/01 to today from mySQL...
+web bike count: 160
+db bike count : 160
+check for update...
+(no update need)
+===================================================================
+
