@@ -8,7 +8,7 @@ echo "writing data to excel..." >> ${dir}/log/upload.log
 /opt/anaconda3/bin/python ${dir}/toExcel.py >> ${dir}/log/upload.log
 echo "uploading data to github..." >> ${dir}/log/upload.log
 git add .
-git commit -m "upload data"
+git commit -m "upload datas"
 git push
 echo "upload complete!!"
 echo "**************************************************" >> ${dir}/log/upload.log
