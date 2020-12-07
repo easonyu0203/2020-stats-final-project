@@ -2,6 +2,7 @@ import os; os.chdir('/Users/eason/Desktop/statistics/final-project')
 import os.path as path
 from database import cursor #save data to mySQL
 import requests
+import concurrent.futures
 from requests.exceptions import ConnectionError, HTTPError
 from bs4 import BeautifulSoup
 from datetime import datetime
@@ -58,9 +59,14 @@ def crawl_towbike_at(date):
 		print("there is no data to crawl...")
 		return []
 
+	urls = [crawl_url(date, i) for i in range(max_index, 0, -1)]
+	
+	with concurrent.futures.ThreadPoolExecutor() as executor:
+		results = executor.map(get_TowBikes, urls)
+
 	tow_bikes = []
-	for page_index in range(max_index, 0, -1):
-		tow_bikes += get_TowBikes(crawl_url(date, page_index))
+	for result in results:
+		tow_bikes += result
 	
 	return tow_bikes
 

@@ -62,6 +62,6 @@ class TowBike:
 
 
 	def __repr__(self):
-		return f"{self.bike_id:20}, {self.location:20}, {self.time}, {self.picture_fileName:20}, {self.picture_filePath}"
+		return f"{self.bike_id:20}, {self.location:20}, {self.time}"
 
 
