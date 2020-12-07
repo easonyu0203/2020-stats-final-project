@@ -1,4 +1,5 @@
 import os; os.chdir('/Users/eason/Desktop/statistics/final-project')
+import concurrent.futures
 from database import cursor, db
 from web_crawler import crawl_towbike_at
 from datetime import date, timedelta, datetime
@@ -13,9 +14,16 @@ def main():
 	end_day = date.today()
 	delta = timedelta(days=1)
 	print('getting all entry from 2020/12/01 to today from website...')
+	dates = []
 	while start_day <= end_day:
-		web_towed_bikes += crawl_towbike_at(start_day)
+		dates.append(start_day)
 		start_day += delta
+
+	with concurrent.futures.ThreadPoolExecutor() as executor:
+		results = executor.map(crawl_towbike_at, dates)
+	for result in results:
+		web_towed_bikes += result
+
 
 	db_towed_bikes = []
 	print('get all entry from 2020/12/01 to today from mySQL...')

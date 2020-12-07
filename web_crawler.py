@@ -27,15 +27,9 @@ def get_TowBikes(url):
 		print("Unexpected error:", sys.exc_info()[0])
 		exit()
 
-
 	soup = BeautifulSoup(res.text, 'html.parser')
 	raw_TowBikes = soup.select("ul.violation-list>li")
 
-	# if raw_TowBikes == []:
-	# 	print('none entry to save to mySQL...')
-	# 	return 0
-	# if std_output:
-	# 	print("saving entries to mySQL...")
 	tow_bikes = []
 	for raw_towbike in raw_TowBikes:
 		bike_id = raw_towbike.select("div.info>h4>span")[1].text 
@@ -45,7 +39,6 @@ def get_TowBikes(url):
 		picture_url = craw_host_url + raw_towbike.figure.a['href']
 		bike = TowBike(bike_id, location, time, picture_url)
 		tow_bikes.append(bike)
-
 	tow_bikes.reverse()
 	
 	return tow_bikes
