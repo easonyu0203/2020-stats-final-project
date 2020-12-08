@@ -14,7 +14,7 @@ from getURL import crawl_url, max_page_index, craw_host_url
 
 def get_TowBikes(url):
 	"""get tow bikes from this url returm array of TowBike"""
-	print(f"crawling {url}")
+	# print(f"crawling {url}")
 	try:
 		res = requests.get(url)
 	except HTTPError as err:

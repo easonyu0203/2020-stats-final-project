@@ -21,6 +21,7 @@ def main():
 
 	with concurrent.futures.ThreadPoolExecutor() as executor:
 		results = executor.map(crawl_towbike_at, dates)
+	print('have get all data from websites')
 	for result in results:
 		web_towed_bikes += result
 
