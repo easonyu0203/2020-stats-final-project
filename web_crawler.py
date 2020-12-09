@@ -49,7 +49,7 @@ def crawl_towbike_at(date):
 	print(f'crawling towed bike at date {date}')
 	max_index = max_page_index(date)
 	if max_index == -1:
-		print("there is no data to crawl...")
+		# print("there is no data to crawl...")
 		return []
 
 	urls = [crawl_url(date, i) for i in range(max_index, 0, -1)]
