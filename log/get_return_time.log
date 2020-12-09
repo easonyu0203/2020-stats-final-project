@@ -10536,3 +10536,141 @@ check for update...
 (update 5 entries)
 ===================================================================
 
+===================================================================
+web crawling program running...
+current time: 12/09/20 16:00:19
+getting all entry from 2020/12/01 to today from website...
+crawling towed bike at date 2020-12-01
+crawling towed bike at date 2020-12-02
+crawling towed bike at date 2020-12-03
+crawling towed bike at date 2020-12-04
+crawling towed bike at date 2020-12-05
+crawling towed bike at date 2020-12-06
+crawling towed bike at date 2020-12-07
+crawling towed bike at date 2020-12-08
+crawling towed bike at date 2020-12-09
+have get all data from websites
+get all entry from 2020/12/01 to today from mySQL...
+web bike count: 225
+db bike count : 401
+check for update...
+(no update need)
+===================================================================
+
+===================================================================
+web crawling program running...
+current time: 12/09/20 16:13:35
+getting all entry from 2020/12/01 to today from website...
+crawling towed bike at date 2020-12-01
+crawling towed bike at date 2020-12-02
+crawling towed bike at date 2020-12-03
+crawling towed bike at date 2020-12-04
+crawling towed bike at date 2020-12-05
+crawling towed bike at date 2020-12-06
+crawling towed bike at date 2020-12-07
+crawling towed bike at date 2020-12-08
+crawling towed bike at date 2020-12-09
+HTTPSConnectionPool(host='mybike.ntu.edu.tw', port=443): Max retries exceeded with url: /bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/100 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fddb07c0a10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+HTTPSConnectionPool(host='mybike.ntu.edu.tw', port=443): Max retries exceeded with url: /bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/100 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fddb07c0510>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+HTTPSConnectionPool(host='mybike.ntu.edu.tw', port=443): Max retries exceeded with url: /bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/100 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fddb07c0150>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+HTTPSConnectionPool(host='mybike.ntu.edu.tw', port=443): Max retries exceeded with url: /bike.announcement/towing/fdate/MjAyMC8xMi8wNw==/page/100 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fddb07c0650>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+HTTPSConnectionPool(host='mybike.ntu.edu.tw', port=443): Max retries exceeded with url: /bike.announcement/towing/fdate/MjAyMC8xMi8wOQ==/page/100 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fddb07c08d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+HTTPSConnectionPool(host='mybike.ntu.edu.tw', port=443): Max retries exceeded with url: /bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/100 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fddb07c0290>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+HTTPSConnectionPool(host='mybike.ntu.edu.tw', port=443): Max retries exceeded with url: /bike.announcement/towing/fdate/MjAyMC8xMi8wNQ==/page/100 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fddb07c03d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+HTTPSConnectionPool(host='mybike.ntu.edu.tw', port=443): Max retries exceeded with url: /bike.announcement/towing/fdate/MjAyMC8xMi8wOA==/page/100 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fddb07b3f50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+HTTPSConnectionPool(host='mybike.ntu.edu.tw', port=443): Max retries exceeded with url: /bike.announcement/towing/fdate/MjAyMC8xMi8wNg==/page/100 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fddb07c0790>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+have get all data from websites
+===================================================================
+
+===================================================================
+web crawling program running...
+current time: 12/09/2020 16:14:39
+getting all entry from 2020/12/01 to today from website...
+crawling towed bike at date 2020-12-01
+crawling towed bike at date 2020-12-02
+crawling towed bike at date 2020-12-03
+crawling towed bike at date 2020-12-04
+crawling towed bike at date 2020-12-05
+crawling towed bike at date 2020-12-06
+crawling towed bike at date 2020-12-07
+crawling towed bike at date 2020-12-08
+crawling towed bike at date 2020-12-09
+have get all data from websites
+get all entry from 2020/12/01 to today from mySQL...
+web bike count: 220
+db bike count : 401
+check for update...
+(update 5 entries)
+===================================================================
+
+===================================================================
+web crawling program running...
+current time: 12/09/20 16:20:01
+getting all entry from 2020/12/01 to today from website...
+crawling towed bike at date 2020-12-01
+crawling towed bike at date 2020-12-02
+crawling towed bike at date 2020-12-03
+crawling towed bike at date 2020-12-04
+crawling towed bike at date 2020-12-05
+crawling towed bike at date 2020-12-06
+crawling towed bike at date 2020-12-07
+crawling towed bike at date 2020-12-08
+crawling towed bike at date 2020-12-09
+HTTPSConnectionPool(host='mybike.ntu.edu.tw', port=443): Max retries exceeded with url: /bike.announcement/towing/fdate/MjAyMC8xMi8wOA==/page/100 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fa7727ed110>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+HTTPSConnectionPool(host='mybike.ntu.edu.tw', port=443): Max retries exceeded with url: /bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/100 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fa7727e1c90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+HTTPSConnectionPool(host='mybike.ntu.edu.tw', port=443): Max retries exceeded with url: /bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/100 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fa7727ed250>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+HTTPSConnectionPool(host='mybike.ntu.edu.tw', port=443): Max retries exceeded with url: /bike.announcement/towing/fdate/MjAyMC8xMi8wNg==/page/100 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fa7727ed550>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+HTTPSConnectionPool(host='mybike.ntu.edu.tw', port=443): Max retries exceeded with url: /bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/100 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fa7727ed390>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+HTTPSConnectionPool(host='mybike.ntu.edu.tw', port=443): Max retries exceeded with url: /bike.announcement/towing/fdate/MjAyMC8xMi8wNw==/page/100 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fa7727d51d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+HTTPSConnectionPool(host='mybike.ntu.edu.tw', port=443): Max retries exceeded with url: /bike.announcement/towing/fdate/MjAyMC8xMi8wOQ==/page/100 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fa7727e1650>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+HTTPSConnectionPool(host='mybike.ntu.edu.tw', port=443): Max retries exceeded with url: /bike.announcement/towing/fdate/MjAyMC8xMi8wNQ==/page/100 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fa7727955d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+HTTPSConnectionPool(host='mybike.ntu.edu.tw', port=443): Max retries exceeded with url: /bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/100 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fa7727ed6d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+have get all data from websites
+===================================================================
+
+===================================================================
+web crawling program running...
+current time: 12/09/20 16:30:01
+getting all entry from 2020/12/01 to today from website...
+crawling towed bike at date 2020-12-01
+crawling towed bike at date 2020-12-02
+crawling towed bike at date 2020-12-03
+crawling towed bike at date 2020-12-04
+crawling towed bike at date 2020-12-05
+crawling towed bike at date 2020-12-06
+crawling towed bike at date 2020-12-07
+crawling towed bike at date 2020-12-08
+crawling towed bike at date 2020-12-09
+HTTPSConnectionPool(host='mybike.ntu.edu.tw', port=443): Max retries exceeded with url: /bike.announcement/towing/fdate/MjAyMC8xMi8wNQ==/page/100 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fa405fc7510>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+HTTPSConnectionPool(host='mybike.ntu.edu.tw', port=443): Max retries exceeded with url: /bike.announcement/towing/fdate/MjAyMC8xMi8wNw==/page/100 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fa405fc78d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+HTTPSConnectionPool(host='mybike.ntu.edu.tw', port=443): Max retries exceeded with url: /bike.announcement/towing/fdate/MjAyMC8xMi8wNg==/page/100 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fa405fc7650>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+HTTPSConnectionPool(host='mybike.ntu.edu.tw', port=443): Max retries exceeded with url: /bike.announcement/towing/fdate/MjAyMC8xMi8wOQ==/page/100 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fa405fc73d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+HTTPSConnectionPool(host='mybike.ntu.edu.tw', port=443): Max retries exceeded with url: /bike.announcement/towing/fdate/MjAyMC8xMi8wMg==/page/100 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fa405fb9f90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+HTTPSConnectionPool(host='mybike.ntu.edu.tw', port=443): Max retries exceeded with url: /bike.announcement/towing/fdate/MjAyMC8xMi8wMw==/page/100 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fa405fc7290>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+HTTPSConnectionPool(host='mybike.ntu.edu.tw', port=443): Max retries exceeded with url: /bike.announcement/towing/fdate/MjAyMC8xMi8wMQ==/page/100 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fa405fc7150>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+HTTPSConnectionPool(host='mybike.ntu.edu.tw', port=443): Max retries exceeded with url: /bike.announcement/towing/fdate/MjAyMC8xMi8wOA==/page/100 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fa405fc7790>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+HTTPSConnectionPool(host='mybike.ntu.edu.tw', port=443): Max retries exceeded with url: /bike.announcement/towing/fdate/MjAyMC8xMi8wNA==/page/100 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fa405fc7a10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+have get all data from websites
+===================================================================
+
+===================================================================
+web crawling program running...
+current time: 12/09/2020 16:32:50
+getting all entry from 2020/12/01 to today from website...
+crawling towed bike at date 2020-12-01
+crawling towed bike at date 2020-12-02
+crawling towed bike at date 2020-12-03
+crawling towed bike at date 2020-12-04
+crawling towed bike at date 2020-12-05
+crawling towed bike at date 2020-12-06
+crawling towed bike at date 2020-12-07
+crawling towed bike at date 2020-12-08
+crawling towed bike at date 2020-12-09
+have get all data from websites
+get all entry from 2020/12/01 to today from mySQL...
+web bike count: 214
+db bike count : 401
+check for update...
+(update 6 entries)
+===================================================================
+
