@@ -21562,3 +21562,31 @@ check for update...
 (update 1 entries)
 ===================================================================
 
+===================================================================
+web crawling program running...
+current time: 12/16/20 15:50:19
+getting all entry from 2020/12/01 to today from website...
+crawling towed bike at date 2020-12-01
+crawling towed bike at date 2020-12-02
+crawling towed bike at date 2020-12-03
+crawling towed bike at date 2020-12-04
+crawling towed bike at date 2020-12-05
+crawling towed bike at date 2020-12-06
+crawling towed bike at date 2020-12-07
+crawling towed bike at date 2020-12-08
+crawling towed bike at date 2020-12-09
+crawling towed bike at date 2020-12-10
+crawling towed bike at date 2020-12-11
+crawling towed bike at date 2020-12-12
+crawling towed bike at date 2020-12-13
+crawling towed bike at date 2020-12-14
+crawling towed bike at date 2020-12-15
+crawling towed bike at date 2020-12-16
+have get all data from websites
+get all entry from 2020/12/01 to today from mySQL...
+web bike count: 230
+db bike count : 721
+check for update...
+(update 1 entries)
+===================================================================
+
